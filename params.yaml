@@ -1,1 +1,5 @@
-key: value
+CLASSES: 43
+IMAGE_SIZE: [40,40,3]
+LEARNING_RATE: 0.01
+WEIGHTS: imagenet
+INCLUDE_TOP: False
